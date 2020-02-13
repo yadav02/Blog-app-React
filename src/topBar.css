@@ -1,0 +1,30 @@
+.Topbar{
+    width: 100%;
+    position: fixed;
+    top:0;
+    left: 0;
+    background-color: white;
+    box-shadow: 0 2px 4px #ccc;
+    padding: 15px 48px;
+    display: flex;
+    
+}
+
+.Topbar > a{
+    /* padding-right: 12px; */
+    color: black;
+    margin-right: 0px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 80px;
+}
+.Topbar > img{
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-left: 48%;
+    
+}
+.Topbar > a > i{
+    margin-left: 60%;
+}
